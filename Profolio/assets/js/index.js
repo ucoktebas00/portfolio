@@ -1,12 +1,4 @@
-/*-----------------------------------------------------------
-* Template Name    :  Nill | Bootstrap 5 personal, portfolio, CV and resume template
-* Author           : Retrinagroup
-* Version          : 2.0.0
-* Created          : January 2020
-* Last Update      : July 2022
-* File Description : Main js file of the template
-*------------------------------------------------------------
-*/
+
 
 // repeated variables
 var $window = $(window);
